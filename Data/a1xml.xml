@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<slika>
+    <sloj directory="Data/unnamed.bmp"/>
+    <sloj directory="Data/img.bmp"/>
+    <selekcija naziv="prva">
+        <pravougaonik height="57" width="183" x="126" y="337"/>
+        <pravougaonik height="176" width="292" x="71" y="93"/>
+    </selekcija>
+    <selekcija naziv="druga">
+        <pravougaonik height="117" width="101" x="290" y="93"/>
+        <pravougaonik height="93" width="60" x="306" y="340"/>
+        <pravougaonik height="83" width="113" x="114" y="248"/>
+    </selekcija>
+</slika>

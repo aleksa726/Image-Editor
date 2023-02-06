@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<operacije><operacija naziv="medijana"/><operacija naziv="crnobelo"/><operacija naziv="sabiranje" val="100" piksel="rg"/><operacija naziv="oduzimanje" val="50" piksel="bg"/></operacije>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operacije>
+    <operacija naziv="min" piksel="rgb" val="40"/>
+    <operacija naziv="medijana"/>
+</operacije>

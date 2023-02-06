@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slika>
+	<sloj directory = "foto.bmp"/>
+	<selekcija naziv = "prva">
+		<pravougaonik width = "2" height = "2" x = "0" y = "0"/>
+	</selekcija>
+	<kompozitna directory = "kompozitna.xml"/>
+</slika>

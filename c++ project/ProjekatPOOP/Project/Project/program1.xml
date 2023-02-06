@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slika>
+	<sloj directory = "img.pam"/>
+	<sloj directory = "img2.pam"/>
+	<selekcija naziv = "prva">
+		<pravougaonik width = "2" height = "1" x = "1" y = "0"/>
+	</selekcija>
+	<selekcija naziv = "donji_levi">
+		<pravougaonik width = "1" height = "1" x = "0" y = "1"/>
+	</selekcija>
+	<operacija naziv = "sabiranje" parametar = "100" piksel = "rg"/>
+	<eksport directory = "export.pam"/>
+</slika>

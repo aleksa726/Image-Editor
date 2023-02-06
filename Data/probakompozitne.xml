@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operacije>
+    <operacija naziv="mnozenje" piksel="rgb" val="100"/>
+    <operacija naziv="min" piksel="rgb" val="100"/>
+    <operacija naziv="crnobelo"/>
+    <operacija naziv="medijana"/>
+    <operacija naziv="nijansasive"/>
+    <operacija naziv="inverznooduzimanje" piksel="r" val="100"/>
+    <operacija naziv="inverznooduzimanje" piksel="r" val="10"/>
+    <operacija naziv="sabiranje" piksel="r" val="10"/>
+</operacije>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operacije>
+	<operacija naziv = "sabiranje" val = "50" piksel = "r"/>
+	<operacija naziv = "oduzimanje" val = "100" piksel = "rb"/>
+	<operacija naziv = "inverzija" piksel = "rgb"/>
+</operacije>
